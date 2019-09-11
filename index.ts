@@ -1,0 +1,1 @@
+const ev = $.Event('custom');
